@@ -208,7 +208,7 @@ http://localhost:xxxx/swagger
 ### 1. Clonar o repositório
 
 bash
-git clone https://github.com/GABRIELBARROS06/seu-repo.git
+git clone (https://github.com/GABRIELBARROS06/Eventos-API.git)
 
 ### 2. Acessar a pasta
 cd EventHub.API
